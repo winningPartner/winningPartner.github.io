@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.72d54371.chunk.css",
+    "main.css": "/static/css/main.1705fe0d.chunk.css",
     "main.js": "/static/js/main.553ccf02.chunk.js",
     "main.js.map": "/static/js/main.553ccf02.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3ea18b6e.js",
@@ -9,10 +9,10 @@
     "static/js/2.8ae86d62.chunk.js": "/static/js/2.8ae86d62.chunk.js",
     "static/js/2.8ae86d62.chunk.js.map": "/static/js/2.8ae86d62.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6ec43d6ab5f9adbfdb84a7a2a25b6f05.js": "/precache-manifest.6ec43d6ab5f9adbfdb84a7a2a25b6f05.js",
+    "precache-manifest.ec0aed9f40a243d7f703c268f9d26e72.js": "/precache-manifest.ec0aed9f40a243d7f703c268f9d26e72.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.568fc9dd.chunk.css.map": "/static/css/2.568fc9dd.chunk.css.map",
-    "static/css/main.72d54371.chunk.css.map": "/static/css/main.72d54371.chunk.css.map",
+    "static/css/main.1705fe0d.chunk.css.map": "/static/css/main.1705fe0d.chunk.css.map",
     "static/js/2.8ae86d62.chunk.js.LICENSE.txt": "/static/js/2.8ae86d62.chunk.js.LICENSE.txt",
     "static/media/calendar.d5c18334.svg": "/static/media/calendar.d5c18334.svg",
     "static/media/casinoroo.png": "/static/media/casinoroo.9758d349.png",
@@ -46,7 +46,7 @@
     "static/js/runtime-main.3ea18b6e.js",
     "static/css/2.568fc9dd.chunk.css",
     "static/js/2.8ae86d62.chunk.js",
-    "static/css/main.72d54371.chunk.css",
+    "static/css/main.1705fe0d.chunk.css",
     "static/js/main.553ccf02.chunk.js"
   ]
 }
