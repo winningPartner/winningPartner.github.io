@@ -1,35 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a49e1fafb515a19f43d01acaf40dab3b",
+    "revision": "2ac9b2f87b7cf86cebcb8356b6810fea",
     "url": "/index.html"
   },
   {
-    "revision": "802ff55d8dbef7f75c9e",
+    "revision": "06f6bf76040c21230324",
     "url": "/static/css/2.568fc9dd.chunk.css"
   },
   {
-    "revision": "9927696fa97723e7039f",
-    "url": "/static/css/main.1705fe0d.chunk.css"
+    "revision": "648d3ca9531abfccc83b",
+    "url": "/static/css/main.d95d498a.chunk.css"
   },
   {
-    "revision": "802ff55d8dbef7f75c9e",
-    "url": "/static/js/2.8ae86d62.chunk.js"
+    "revision": "06f6bf76040c21230324",
+    "url": "/static/js/2.6e17d991.chunk.js"
   },
   {
     "revision": "885c0e205ef5e79f4aef448a818ba6a1",
-    "url": "/static/js/2.8ae86d62.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.6e17d991.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9927696fa97723e7039f",
-    "url": "/static/js/main.553ccf02.chunk.js"
+    "revision": "648d3ca9531abfccc83b",
+    "url": "/static/js/main.2bd5f83f.chunk.js"
   },
   {
     "revision": "4305ad129dcf89844c80",
     "url": "/static/js/runtime-main.3ea18b6e.js"
   },
   {
+    "revision": "4b70bb1951603456b82657a9e2d63e98",
+    "url": "/static/media/anastasia.4b70bb19.png"
+  },
+  {
     "revision": "d5c183349071521ae64d6aa46a397539",
     "url": "/static/media/calendar.d5c18334.svg"
+  },
+  {
+    "revision": "86c31e87aa881b380a95fa9a9a2654d2",
+    "url": "/static/media/casino-chip.86c31e87.svg"
   },
   {
     "revision": "9758d34985a1fc7fa63b200844f6f3a5",
@@ -52,8 +60,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/diceden.d5d95524.png"
   },
   {
+    "revision": "0438408ce3975345cb5c51e02c1a31df",
+    "url": "/static/media/exchange-rate.0438408c.svg"
+  },
+  {
     "revision": "e68b3f556e9a82e05ae84d338c9b70fb",
     "url": "/static/media/flash.e68b3f55.svg"
+  },
+  {
+    "revision": "48c719bbd6c9d6ca89da685b09e58881",
+    "url": "/static/media/galyna.48c719bb.png"
   },
   {
     "revision": "0d3932ed0cd1b1f0394efbf0b9f3f696",
@@ -134,6 +150,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5befec0d4e807e7217c367b9739d5400",
     "url": "/static/media/spinslots.5befec0d.png"
+  },
+  {
+    "revision": "673331cd5f898d31c53a168bfb730798",
+    "url": "/static/media/stats-colored.673331cd.svg"
   },
   {
     "revision": "d5c191186ceb5f2c3960656e02adc836",
