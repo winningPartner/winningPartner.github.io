@@ -1,31 +1,83 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2ac9b2f87b7cf86cebcb8356b6810fea",
+    "revision": "1c951167a90aa114e2d0d9d79979219e",
     "url": "/index.html"
   },
   {
-    "revision": "06f6bf76040c21230324",
-    "url": "/static/css/2.568fc9dd.chunk.css"
+    "revision": "4cdb6e8bfa34b470b507",
+    "url": "/static/css/3.eb1c6ebf.chunk.css"
   },
   {
-    "revision": "648d3ca9531abfccc83b",
-    "url": "/static/css/main.d95d498a.chunk.css"
+    "revision": "de8f8c7442dc288e64d0",
+    "url": "/static/css/4.00924867.chunk.css"
   },
   {
-    "revision": "06f6bf76040c21230324",
-    "url": "/static/js/2.6e17d991.chunk.js"
+    "revision": "22640dde2db0a9e355ae",
+    "url": "/static/css/5.84ec0dbc.chunk.css"
   },
   {
-    "revision": "885c0e205ef5e79f4aef448a818ba6a1",
-    "url": "/static/js/2.6e17d991.chunk.js.LICENSE.txt"
+    "revision": "0b82b252969bab4653b3",
+    "url": "/static/css/6.cc525da6.chunk.css"
   },
   {
-    "revision": "648d3ca9531abfccc83b",
-    "url": "/static/js/main.2bd5f83f.chunk.js"
+    "revision": "c9eb4f1af91f889dc1fb",
+    "url": "/static/css/main.d417f706.chunk.css"
   },
   {
-    "revision": "4305ad129dcf89844c80",
-    "url": "/static/js/runtime-main.3ea18b6e.js"
+    "revision": "53602ec2617e58dee3ab",
+    "url": "/static/js/0.4a0d7f27.chunk.js"
+  },
+  {
+    "revision": "08a8ef50245fbeb08f5d",
+    "url": "/static/js/10.4ee0ac21.chunk.js"
+  },
+  {
+    "revision": "0d48931e142e71749a96",
+    "url": "/static/js/11.2c60b9c7.chunk.js"
+  },
+  {
+    "revision": "e1d0b43c6ea766087e68",
+    "url": "/static/js/12.b5ddfb53.chunk.js"
+  },
+  {
+    "revision": "4cdb6e8bfa34b470b507",
+    "url": "/static/js/3.154841f7.chunk.js"
+  },
+  {
+    "revision": "715ad043f94d4942e49f6915ad603bae",
+    "url": "/static/js/3.154841f7.chunk.js.LICENSE.txt"
+  },
+  {
+    "revision": "de8f8c7442dc288e64d0",
+    "url": "/static/js/4.06edf6c8.chunk.js"
+  },
+  {
+    "revision": "22640dde2db0a9e355ae",
+    "url": "/static/js/5.12654174.chunk.js"
+  },
+  {
+    "revision": "0b82b252969bab4653b3",
+    "url": "/static/js/6.ad47c3e9.chunk.js"
+  },
+  {
+    "revision": "feb6857f33c29cb63ca9",
+    "url": "/static/js/7.49544528.chunk.js"
+  },
+  {
+    "revision": "c64086d72e1a1cc67b1a",
+    "url": "/static/js/8.d23027bd.chunk.js"
+  },
+  {
+    "revision": "b2032fe767567df46179",
+    "url": "/static/js/9.af2e50d3.chunk.js"
+  },
+  {
+    "revision": "c9eb4f1af91f889dc1fb",
+    "url": "/static/js/main.df579686.chunk.js"
+  },
+  {
+    "revision": "7884d93026069613fb86",
+    "url": "/static/js/runtime-main.db11805f.js"
   },
   {
     "revision": "4b70bb1951603456b82657a9e2d63e98",
@@ -34,10 +86,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d5c183349071521ae64d6aa46a397539",
     "url": "/static/media/calendar.d5c18334.svg"
-  },
-  {
-    "revision": "86c31e87aa881b380a95fa9a9a2654d2",
-    "url": "/static/media/casino-chip.86c31e87.svg"
   },
   {
     "revision": "9758d34985a1fc7fa63b200844f6f3a5",
@@ -60,10 +108,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/diceden.d5d95524.png"
   },
   {
-    "revision": "0438408ce3975345cb5c51e02c1a31df",
-    "url": "/static/media/exchange-rate.0438408c.svg"
-  },
-  {
     "revision": "e68b3f556e9a82e05ae84d338c9b70fb",
     "url": "/static/media/flash.e68b3f55.svg"
   },
@@ -84,16 +128,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/link.77b2bce2.svg"
   },
   {
-    "revision": "611870b7c26fcf566b13254390241485",
-    "url": "/static/media/m1.611870b7.png"
+    "revision": "19eee23f6fe8e1e9f1c5249b7d43dfaf",
+    "url": "/static/media/m11.19eee23f.png"
   },
   {
-    "revision": "3c4cabbd659634f3e7fa0a40bee65e51",
-    "url": "/static/media/m2.3c4cabbd.png"
+    "revision": "034231c35ee27998270f9c3e5f9bdbe1",
+    "url": "/static/media/m22.034231c3.png"
   },
   {
-    "revision": "1b916734fc72fa502302cb100d8680ae",
-    "url": "/static/media/m3.1b916734.png"
+    "revision": "6c6357b7b8170f1f2e018be40e51bc48",
+    "url": "/static/media/m33.6c6357b7.png"
   },
   {
     "revision": "371e2ca52029b00d23a0a4cf58794ca2",
@@ -150,10 +194,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5befec0d4e807e7217c367b9739d5400",
     "url": "/static/media/spinslots.5befec0d.png"
-  },
-  {
-    "revision": "673331cd5f898d31c53a168bfb730798",
-    "url": "/static/media/stats-colored.673331cd.svg"
   },
   {
     "revision": "d5c191186ceb5f2c3960656e02adc836",
